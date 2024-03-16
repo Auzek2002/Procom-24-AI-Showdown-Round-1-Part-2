@@ -1,0 +1,2 @@
+# Procom-24-AI-Showdown-Round-1-Part-2
+In the subsequent stage of the competition, I received a set of approximately 82 microscopic cell images for training purposes. The challenge involved classifying these images into two categories: 'Normal' or 'Abnormal.' This task required leveraging the extracted features from the previous round to develop a robust classification model. The goal was to accurately differentiate between normal and abnormal cells.
